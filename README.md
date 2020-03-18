@@ -1,4 +1,4 @@
 # course-tlx
 
-Submissions for TLX (tlx.toki.id) Competitive Programming Platform.
+Submissions for <a href="tlx.toki.id">TLX</a> Competitive Programming Platform.
 **For educational purpose only.**
